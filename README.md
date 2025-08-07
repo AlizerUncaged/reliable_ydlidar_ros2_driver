@@ -1,3 +1,5 @@
+> This is a fork of the YDLIDAR ROS2 Driver that uses RELIABLE instead of BEST_EFFORT
+
 ![YDLIDAR](images/YDLidar.jpg  "YDLIDAR")
 # YDLIDAR ROS2 Driver
 
